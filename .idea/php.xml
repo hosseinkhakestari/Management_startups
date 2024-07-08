@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/include/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/include/vendor/hekmatinasser/verta" />
+      <path value="$PROJECT_DIR$/include/vendor/composer" />
+      <path value="$PROJECT_DIR$/include/vendor/hekmatinasser/notowo" />
+      <path value="$PROJECT_DIR$/include/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/include/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/include/vendor/illuminate/container" />
+    </include_path>
+  </component>
+</project>
